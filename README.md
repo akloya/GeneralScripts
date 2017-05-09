@@ -2,8 +2,8 @@
 
 ---
 `certexpiryalert.sh`
->This script will send alerts to given list if the certificates are expiring.
+>This script will send alerts to provided domains names in list if the certificates are expiring in n number of days.
 ---      
 `get_internal_external_IP.sh`
->This script will give you Internal and External IP as Output.
+>This script will gives you Internal and External IP as Output.
 ---    
