@@ -6,4 +6,7 @@
 ---      
 `get_internal_external_IP.sh`
 >This script will gives you Internal and External IP as Output.
----    
+---
+`changetimezone.sh`
+>This script can be used to change the timezone on your instance.
+---
