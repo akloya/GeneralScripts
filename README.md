@@ -10,3 +10,6 @@
 `changetimezone.sh`
 >This script can be used to change the timezone on your instance.
 ---
+`tagallvolumes.sh`
+>This script fetches the value of tag key provided for each instance and then copy that to volumes associated to it. this is repeated for all the instances in provided region and profile which that user has access too.
+---
